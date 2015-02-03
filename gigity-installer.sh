@@ -1,5 +1,5 @@
 #!/bin/bash
-#  G I G I T Y - LOIC DDoS Launch System Installer
+#  G I G I T Y - LOIC / SlowLoris DDoS Launch System Installer
 #  Christian Marvel
 #  Digitalizedwarfare.com
 #  This Cannot Be REMOVED. 
