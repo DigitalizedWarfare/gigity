@@ -73,13 +73,14 @@ show_menus() {
 	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo " 1. Set Gigity Permisions...."
 	echo " 2. Install Kali Riquired Files.."
+	echo " "
 	echo " 3. Exit Installer"
 }
 
 # Main Menu
 read_options(){
 	local choice
-	read -p "Enter choice [ 1 - 3 ] " choice
+	read -p " Enter choice [ 1 - 3 ] " choice
 	case $choice in
 		1) igigity ;;
 		2) install ;;
