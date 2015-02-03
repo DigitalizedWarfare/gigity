@@ -79,7 +79,7 @@ show_menus() {
 # Main Menu
 read_options(){
 	local choice
-	read -p "Enter choice [ 1 - 3] " choice
+	read -p "Enter choice [ 1 - 3 ] " choice
 	case $choice in
 		1) igigity ;;
 		2) install ;;
