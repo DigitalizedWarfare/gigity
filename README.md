@@ -6,7 +6,7 @@ set a limit to 5 in the gigity script. Please use carefully.
 <br />
 ** Disclaimer : This is for educational use only. Do not use against anything you do not own or have
 permission to do on. I am not responsible. Do not Use this at school!!!<br />
-<br /><br />
+<br />
 By default it gets put into /opt/gigity/
 <br /><br />
 Each one of these is treated as a Factory. and Installed into it correct folder.
