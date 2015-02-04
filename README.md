@@ -1,6 +1,6 @@
 # Gigity System Launcher 1.0<br />
-Descption : I wrote this script to always keep my Stress testing tools Close by. <br />
-This system will download and install LOIC and SlowLoris into Kali Linux...<br />
+Descption : I wrote this script to always keep my Stress testing tools Close by. 
+This system will download and install LOIC and SlowLoris into Kali Linux...
 This should also work in most debian based installs.<br /><br />I removed other DDoS tools and 
 set a limit to 5 in the gigity script. Please use carefully.
 <br />
