@@ -22,11 +22,11 @@ To Run Gigity :<br />
 Change to Gigity Folder : cd /opt/gigity<br />
 Run : ./gigity-gigity.sh<br />
 <br /><br />
-Simply follow the Menus, look at demos below. Turn Sound Up!!!
+Simply follow the Menus, look at demos below. Turn Sound Up!!! Click the Picture!
 <br />
-Demo Low Orbit Ion Cannon <br />
+Youtube Demo Low Orbit Ion Cannon <br />
 [![Demo Low Orbit Ion Cannon](http://upload.wikimedia.org/wikipedia/en/9/95/LoicNewEraCracker_-_from_Commons.png)](https://www.youtube.com/watch?v=cq4xaF8szUI)<br /><br />
-Demo SlowLoris <br />
+Youtube Demo SlowLoris <br />
 [![Demo SlowLoris](http://www.mnn.com/sites/default/files/styles/featured_blog/public/loris.jpg)](https://www.youtube.com/watch?v=vPDr6nlkbbA)
 
 
