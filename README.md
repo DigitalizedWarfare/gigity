@@ -14,7 +14,7 @@ Each one of these is treated as a Factory. and Installed into it correct folder.
 To Install follow these steps : <br />
 Change to Opt Folder :  cd /opt<br />
 GIT clone the project : git clone https://github.com/DigitalizedWarfare/gigity.git<br />
-Chnage to Gigity Folder : cd /opt/gigity<br />
+Change to Gigity Folder : cd /opt/gigity<br />
 Set Shell Script Executable : chmod +x /opt/gigity/*.sh<br />
 Run Gigitys Installer to install Dependencys : gigity-installer.sh<br />
 <br /><br />
