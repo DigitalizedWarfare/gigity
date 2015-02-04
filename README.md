@@ -17,7 +17,7 @@ GIT clone the project : git clone https://github.com/DigitalizedWarfare/gigity.g
 Change to Gigity Folder : cd /opt/gigity<br />
 Set Shell Script Executable : chmod +x /opt/gigity/*.sh<br />
 Run Gigitys Installer to install Dependencys : gigity-installer.sh<br />
-<br /><br />
+<br />
 To Run Gigity :<br />
 Change to Gigity Folder : cd /opt/gigity<br />
 Run : ./gigity-gigity.sh<br />
