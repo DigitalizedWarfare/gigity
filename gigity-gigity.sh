@@ -42,8 +42,8 @@ loic(){
 	clear
 	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo " G I G I T Y - LOIC DDoS Launch System "
-	echo ' And as the Skies opened , it rained from the heavens, it was truly'
-	echo " a astonishng sight.. And I saw, death walked the world once more......"
+	echo ' And as the Skies opened , it rained from the heavens, It was truly'
+	echo " a astonishng sight, as I saw, Death walked the world once more......"
 	echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo " Options are : Number Instances "
 	echo " "
